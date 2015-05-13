@@ -1,0 +1,7 @@
+Name: Dau Lam
+Professor: John Fiore
+Semester: Fall 2014
+
+Compile ReadMsg.c to run the message reading program. See screen shot. Arguments: (1) name of image file.
+
+Compile WriteMsg.c to run the message hiding program. See screen shot. Arguments: (3) message, name of input file, name of output file.
